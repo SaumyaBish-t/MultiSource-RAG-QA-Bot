@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# PDF files (if sensitive)
+*.pdf
+
+# FAISS indexes
+*.faiss
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
